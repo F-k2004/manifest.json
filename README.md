@@ -1,6 +1,6 @@
 {
   "name": "PWA آب‌وهوا",
-  "hort_name": "آب‌وهوا",
+  "short_name": "آب‌وهوا",
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#74ebd5",
