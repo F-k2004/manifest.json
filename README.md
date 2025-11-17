@@ -1,4 +1,4 @@
-
+{
   "name": "PWA آب‌وهوا",
   "short_name": "آب‌وهوا",
   "start_url": "/index.html",
