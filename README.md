@@ -1,0 +1,2 @@
+# manifest.json
+just githab
