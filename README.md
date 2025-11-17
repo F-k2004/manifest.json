@@ -1,5 +1,5 @@
 {
-  "ame": "PWA آب‌وهوا",
+  "name": "PWA آب‌وهوا",
   "hort_name": "آب‌وهوا",
   "start_url": "/index.html",
   "display": "standalone",
